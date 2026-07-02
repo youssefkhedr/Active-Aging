@@ -1,0 +1,22 @@
+F:\ElderCare\ElderCare.Core\bin\Release\net8.0\ElderCare.Core.deps.json
+F:\ElderCare\ElderCare.Core\bin\Release\net8.0\ElderCare.Core.dll
+F:\ElderCare\ElderCare.Core\bin\Release\net8.0\ElderCare.Core.pdb
+F:\ElderCare\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\ElderCare\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.AssemblyInfoInputs.cache
+F:\ElderCare\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.AssemblyInfo.cs
+F:\ElderCare\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.csproj.CoreCompileInputs.cache
+F:\ElderCare\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.dll
+F:\ElderCare\ElderCare.Core\obj\Release\net8.0\refint\ElderCare.Core.dll
+F:\ElderCare\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.pdb
+F:\ElderCare\ElderCare.Core\obj\Release\net8.0\ref\ElderCare.Core.dll
+D:\Active Aging\Back\ElderCare.Core\bin\Release\net8.0\ElderCare.Core.deps.json
+D:\Active Aging\Back\ElderCare.Core\bin\Release\net8.0\ElderCare.Core.dll
+D:\Active Aging\Back\ElderCare.Core\bin\Release\net8.0\ElderCare.Core.pdb
+D:\Active Aging\Back\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Active Aging\Back\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.AssemblyInfoInputs.cache
+D:\Active Aging\Back\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.AssemblyInfo.cs
+D:\Active Aging\Back\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.csproj.CoreCompileInputs.cache
+D:\Active Aging\Back\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.dll
+D:\Active Aging\Back\ElderCare.Core\obj\Release\net8.0\refint\ElderCare.Core.dll
+D:\Active Aging\Back\ElderCare.Core\obj\Release\net8.0\ElderCare.Core.pdb
+D:\Active Aging\Back\ElderCare.Core\obj\Release\net8.0\ref\ElderCare.Core.dll

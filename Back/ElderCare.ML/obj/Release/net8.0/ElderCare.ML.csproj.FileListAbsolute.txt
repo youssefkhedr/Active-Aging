@@ -1,0 +1,72 @@
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Black.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-BlackItalic.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Bold.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-BoldItalic.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-ExtraBold.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-ExtraLight.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Italic.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Light.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-LightItalic.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Medium.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-MediumItalic.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Regular.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-SemiBold.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Thin.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-ThinItalic.ttf
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\LatoFont\OFL.txt
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\ElderCare.ML.deps.json
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\ElderCare.ML.dll
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\ElderCare.ML.pdb
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\ElderCare.Application.dll
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\ElderCare.Core.dll
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\ElderCare.Application.pdb
+F:\ElderCare\ElderCare.ML\bin\Release\net8.0\ElderCare.Core.pdb
+F:\ElderCare\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.csproj.AssemblyReference.cache
+F:\ElderCare\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.GeneratedMSBuildEditorConfig.editorconfig
+F:\ElderCare\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.AssemblyInfoInputs.cache
+F:\ElderCare\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.AssemblyInfo.cs
+F:\ElderCare\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.csproj.CoreCompileInputs.cache
+F:\ElderCare\ElderCare.ML\obj\Release\net8.0\ElderCar.7238D38F.Up2Date
+F:\ElderCare\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.dll
+F:\ElderCare\ElderCare.ML\obj\Release\net8.0\refint\ElderCare.ML.dll
+F:\ElderCare\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.pdb
+F:\ElderCare\ElderCare.ML\obj\Release\net8.0\ref\ElderCare.ML.dll
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Black.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-BlackItalic.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Bold.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-BoldItalic.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-ExtraBold.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-ExtraBoldItalic.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-ExtraLight.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-ExtraLightItalic.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Italic.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Light.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-LightItalic.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Medium.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-MediumItalic.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Regular.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-SemiBold.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-SemiBoldItalic.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-Thin.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\Lato-ThinItalic.ttf
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\LatoFont\OFL.txt
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\ElderCare.ML.deps.json
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\ElderCare.ML.dll
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\ElderCare.ML.pdb
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\ElderCare.Application.dll
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\ElderCare.Core.dll
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\ElderCare.Application.pdb
+D:\Active Aging\Back\ElderCare.ML\bin\Release\net8.0\ElderCare.Core.pdb
+D:\Active Aging\Back\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.csproj.AssemblyReference.cache
+D:\Active Aging\Back\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.GeneratedMSBuildEditorConfig.editorconfig
+D:\Active Aging\Back\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.AssemblyInfoInputs.cache
+D:\Active Aging\Back\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.AssemblyInfo.cs
+D:\Active Aging\Back\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.csproj.CoreCompileInputs.cache
+D:\Active Aging\Back\ElderCare.ML\obj\Release\net8.0\ElderCar.7238D38F.Up2Date
+D:\Active Aging\Back\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.dll
+D:\Active Aging\Back\ElderCare.ML\obj\Release\net8.0\refint\ElderCare.ML.dll
+D:\Active Aging\Back\ElderCare.ML\obj\Release\net8.0\ElderCare.ML.pdb
+D:\Active Aging\Back\ElderCare.ML\obj\Release\net8.0\ref\ElderCare.ML.dll

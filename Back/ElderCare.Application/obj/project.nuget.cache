@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPZv1hMYhd4=",
+  "success": true,
+  "projectFilePath": "D:\\Active Aging\\Back\\ElderCare.Application\\ElderCare.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hp\\.nuget\\packages\\questpdf\\2025.12.3\\questpdf.2025.12.3.nupkg.sha512"
+  ],
+  "logs": []
+}
